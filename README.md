@@ -15,12 +15,10 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 
-<h2>Languages</h2>    
+<h2>Github stats</h2>    
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunshuizi&hide_langs=markdown&layout=compact&theme=omni"/>
-<h2>Github Stats</h2>    
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=chunshuizi&theme=omni"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=chunshuizi&theme=omni"/>    
 
 Best wishes to youuuuu~✨          
    
