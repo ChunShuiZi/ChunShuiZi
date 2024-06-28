@@ -19,7 +19,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunshuizi&hide_langs=markdown&layout=compact&theme=omni"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=chunshuizi&theme=omni"/>    
-</img>
-****
-Best wishes to youuuuu~✨          
+
+<h1>Best wishes to youuuuu~✨  </h1>        
    
