@@ -17,11 +17,11 @@
 
 <h2>Languages</h2>    
 
-[![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chunshuizi&hide_langs=markdown&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
+[![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chunshuizi&hide_langs=markdown&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)    
 
 <h2>Github Stats</h2>    
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunshuizi)](https://github.com/anuraghazra/github-readme-stats)    
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunshuizi&theme=omni)](https://github.com/anuraghazra/github-readme-stats)    
 
 Best wishes to youuuuu~✨          
    
