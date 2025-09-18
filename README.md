@@ -17,5 +17,15 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 
 <h2>Github stats</h2>   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunshuizi)](https://github.com/anuraghazra/github-readme-stats) 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=chunshuizi&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=chunshuizi&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=chunshuizi&show_icons=true" />
+</picture>
     
